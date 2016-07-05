@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+
+<h1 style="color:Red;text-align:center">Hello</h1>
+<p style="color:green;text-align:center"> Just to see if I could do it, I made a website!</p>
+
+  <h1 class="page-heading">Posts</h1>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
