@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   you will have to come up with what you want in this description!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: WillGetYouToAddAFaceBokkPageForBuisnessToAddHere
+twitter_username: FaceBookBeGood
 github_username:  simonmacWeb
 # Build settings
 markdown: kramdown
