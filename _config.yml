@@ -6,16 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Scott Black Online!!!
-email: scottblackbrora@hotmail.com
+title: Inverness Electric
+email: simonmacwebsite@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I am just testing editing this description.
-  #Write an awesome description for your new site here. You can edit this
-  #line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description.
+  High class electrical work for inverness and surrounding areas
+  you will be shocked at the quaility and price... This is just a place holder Simon,
+  you will have to come up with what you want in this description!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: Twitter???
-github_username:  scottblackbrora
+twitter_username: WillGetYouToAddAFaceBokkPageForBuisnessToAddHere
+github_username:  simonmacWeb
 # Build settings
 markdown: kramdown
